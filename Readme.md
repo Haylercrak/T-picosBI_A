@@ -1,4 +1,4 @@
-# Repocitorio de topicos especiales
+# Repositorio topicos Especiales
 
 Lenguajes de Programacion para grandees volumennes de datos
 
